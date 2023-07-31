@@ -1,4 +1,4 @@
-﻿가수,제목,발매일,장르,가사
+﻿artist,title,date,genre,lyrics
 박재정,헤어지자 말해요,2023.04.20,발라드,헤어지자고 말하려 오늘너에게 가다가 우리 추억 생각해 봤어처음 본 네 얼굴마주친 눈동자가까스로 본 너의 그 미소들손을 잡고 늘 걷던 거리에첫눈을 보다가 문득 고백했던 그 순간가보고 싶었던 식당난생처음 준비한 선물고맙다는 너의 그 눈물들이바뀔까 봐 두려워그대 먼저 헤어지자 말해요나는 사실 그대에게 좋은 사람이 아녜요그대 이제 날 떠난다 말해요잠시라도 이 행복을 느껴서 고마웠다고시간이 지나고 나면 나는어쩔 수 없을 걸 문득 너의 사진 보겠지새로 사귄 친구 함께웃음 띤 네 얼굴 보면말할 수 없을 묘한 감정들이힘들단 걸 알지만그대 먼저 헤어지자 말해요나는 사실 그대에게 좋은 사람이 아녜요그대 이제 날 떠난다 말해요잠시라도 이 행복을 느껴서 고마웠다고한 번은 널 볼 수 있을까이기적인 거 나도 잘 알아그땐 그럴 수밖에 없던어린 내게 한 번만 더 기회를 주길그댈 정말 사랑했다 말해요나는 사실 그대에게좋은 사람이 되고 싶었어영영 다신 못 본다 해도그댈 위한 이 노래가당신을 영원히 사랑할 테니
 임영웅,사랑은 늘 도망가,2021.10.11,"발라드, 국내드라마",눈물이 난다 이 길을 걸으면그 사람 손길이 자꾸 생각이 난다붙잡지 못하고 가슴만 떨었지내 아름답던 사람아사랑이란 게 참 쓰린 거더라잡으려 할수록 더 멀어지더라이별이란 게 참 쉬운 거더라내 잊지 못할 사람아사랑아 왜 도망가수줍은 아이처럼행여 놓아버릴까 봐꼭 움켜쥐지만그리움이 쫓아 사랑은 늘 도망가잠시 쉬어가면 좋을 텐데바람이 분다 옷깃을 세워도차가운 이별의 눈물이 차올라잊지 못해서 가슴에 사무친내 소중했던 사람아사랑아 왜 도망가수줍은 아이처럼행여 놓아버릴까 봐꼭 움켜쥐지만그리움이 쫓아 사랑은 늘 도망가잠시 쉬어가면 좋을 텐데기다림도 애태움도 다 버려야 하는데무얼 찾아 이 길을 서성일까무얼 찾아 여기 있나사랑아 왜 도망가수줍은 아이처럼행여 놓아버릴까 봐꼭 움켜쥐지만그리움이 쫓아 사랑은 늘 도망가잠시 쉬어가면 좋을 텐데잠시 쉬어가면 좋을 텐데
 임한별,사랑하지 않아서 그랬어,2023.04.02,발라드,사랑하지 않기로 했어나만 생각하기로 했어니 눈물을 못 본 척 좀 해야겠어나쁜 사람 되기 싫어서구차해지는 변명들로괜한 기대하게 만들기 싫었어마지막까지 상처 주긴 싫은데난 여전히 너를 배려해 줄자신이 없는걸사랑하지 않았어 미안해참 많이 고마웠어미련 갖는 일 그런 일 없을 거야 정말매번 져주려 했던 너에게기어코 이겨보려 애썼던 순간도너를 필요 없어 했던 밤도사랑하지 않아서 그랬어마지막으로 안아주면 안 될까말하는 니 얼굴떳떳하게 볼 수가 없는걸사랑하지 않았어 미안해참 많이 고마웠어미련 갖는 일 그런 일 없을 거야 정말매번 져주려 했던 너에게기어코 이겨보려 애썼던 순간도너를 필요 없어 했던 밤도사랑하지 않아서 그랬어넌 모르지 내 맘이 어떤지계속 사랑해보려 애를 썼어내가 다 미안해도망치는 내가 밉겠지만나는 후련한 거 같아 여기까지만 해기다리면은 안 돼 잘 들어날 미워해야만 해계속 울어도 난 멀리 떠날 거야 제발니가 괴롭든 말든 꺼놨던 전화도아픈 니가 귀찮았던 밤도하다못해 지금 내 말투도사랑하지 않아서 그랬어
@@ -26,7 +26,53 @@ DK(디셈버),발걸음,2023.03.30,발라드,해 질 무렵 날 끌고 간 발�
 비투비,그리워하다,2017.10.16,발라드,My life is incompleteIt’s Missing you오늘도 하루를 보내 다를 게 없이하나도 안 어색해 혼자 있는 게너 없인 안될 것 같던 내가 이렇게 살아근데 좀 허전해 난 여전히 거기 있나 봐후련하게 다 털어내 다 다지난 일에 마음 쓰는 게 It’s alright답이 잘 보이는가 싶다가도어느새 날 가두는 감옥이 돼시간은 앞으로만 가는 걸 어째그 동안 난 아무것도 이룬 것이 없네아직도 내 마음속엔 너 Oh oh너를 그리워하다 하루가 다 지났어너를 그리워하다 일 년이 가버렸어난 그냥 그렇게 살아너를 그리워하다 그리워하다다 괜찮을 거라 되뇌어 봐도내 하루에 끝엔 또 너로 남아너 없인 안될 것 같던 내가 이렇게 살아사실 좀 허전해 넌 여전히 여기 있나 봐내 마음은 여전해 아직 너를 원해몇 년이 지나도 난 아직 널 그리워해난 아직 기억해 우리 처음 봤을 때네 옷차림과 머리 스타일도 다 정확하게I pray for you every night and dayI hope that someday soon I can see you once again아직도 내 마음속엔 너 Oh oh너를 그리워하다 하루가 다 지났어너를 그리워하다 일 년이 가버렸어난 그냥 그렇게 살아너를 그리워하다 그리워하다잠에서 깨어 헝클어진 머리처럼 내 일상도꽤나 엉망이 돼버렸어 책임져아무렇지 않은 척 드리워진 표정도 내 모든 곳에스며든 네 흔적도 다 책임져 아직도 난잊을 수 없나 봐 다시 돌아와 줘또다시 같은 엔딩이라 해도 너너를 그리워하다 하루가 다 지났어너를 그리워하다 일 년이 가버렸어너를 잊으려 하다 하루가 지나가도너를 지우려 하다 일 년이 가버려도난 그냥 그렇게 살아너를 그리워하다 그리워하다그리워하다 그리워하다
 AKMU (악뮤),"어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",2019.09.25,발라드,일부러 몇 발자국 물러나내가 없이 혼자 걷는 널 바라본다옆자리 허전한 너의 풍경흑백 거리 가운데 넌 뒤돌아본다그때 알게 되었어난 널 떠날 수 없단 걸우리 사이에 그 어떤 힘든 일도이별보단 버틸 수 있는 것들이었죠어떻게 이별까지 사랑하겠어널 사랑하는 거지사랑이라는 이유로서로를 포기하고찢어질 것같이 아파할 수 없어 난두세 번 더 길을 돌아갈까적막 짙은 도로 위에 걸음을 포갠다아무 말 없는 대화 나누며주마등이 길을 비춘 먼 곳을 본다그때 알게 되었어난 더 갈 수 없단 걸한 발 한 발 이별에 가까워질수록너와 맞잡은 손이 사라지는 것 같죠어떻게 이별까지 사랑하겠어널 사랑하는 거지사랑이라는 이유로서로를 포기하고찢어질 것같이 아파할 수 없어 난어떻게 내가 어떻게 너를이후에 우리 바다처럼 깊은 사랑이다 마를 때까지기다리는 게 이별일 텐데어떻게 내가 어떻게 너를이후에 우리 바다처럼 깊은 사랑이다 마를 때까지기다리는 게 이별일 텐데
 Sondia,어른,2018.03.29,"발라드, 국내드라마",고단한 하루 끝에 떨구는 눈물난 어디를 향해 가는 걸까아플 만큼 아팠다 생각했는데아직도 한참 남은 건가 봐이 넓은 세상에 혼자인 것처럼아무도 내 맘을 보려 하지 않고아무도눈을 감아 보면내게 보이는 내 모습지치지 말고잠시 멈추라고갤 것 같지 않던짙은 나의 어둠은나를 버리면모두 갤 거라고웃는 사람들 틈에 이방인처럼혼자만 모든 걸 잃은 표정정신 없이 한참을 뛰었던 걸까이제는 너무 멀어진 꿈들이 오랜 슬픔이 그치기는 할까언젠가 한 번쯤 따스한 햇살이 내릴까나는 내가 되고별은 영원히 빛나고잠들지 않는꿈을 꾸고 있어바보 같은 나는내가 될 수 없단 걸눈을 뜨고야그걸 알게 됐죠나는 내가 되고별은 영원히 빛나고잠들지 않는꿈을 꾸고 있어바보 같은 나는내가 될 수 없단 걸눈을 뜨고야그걸 알게 됐죠어떤 날 어떤 시간 어떤 곳에서나의 작은 세상은 웃어줄까
-아이유,내 손을 잡아,2011.05.25,"발라드, 국내드라마","느낌이 오잖아 떨리고 있잖아언제까지 눈치만 볼 거니네 맘을 말해봐 딴청 피우지 말란 말이야네 맘 가는 그대로 지금 내 손을 잡아어서 내 손을 잡아우연히 고개를 돌릴 때 마다눈이 마주치는 건며칠 밤 내내 꿈속에 나타나밤새 나를 괴롭히는 건그 많은 빈자리 중에서 하필내 옆자릴 고르는 건나도 모르게 어느새 실없는 웃음흘리고 있다는 건그럼 말 다했지 뭐우리 얘기 좀 할까느낌이 오잖아 떨리고 있잖아언제까지 눈치만 볼 거니네 맘을 말해봐 딴청 피우지 말란 말이야네 맘 가는 그대로 지금 내 손을 잡아핸드폰 진동에 심장이 덜컥내려 앉는다는 건오 나도 모르게 어느새 짓궂은 네 말투자꾸 듣고 싶은걸어떡해저기 멀리 걸어온다눈이 마주친다언제까지 넌 모른척 할거니사랑이 온거야 너와 나 말이야네가 좋아 정말 못 견딜 만큼그거면 된거야 더는 생각하지 말란 말이야네 맘 가는 그대로느낌이 오잖아 떨리고 있잖아언제까지 눈치만 볼 거니네 맘을 말해봐 딴청 피우지 말란 말이야네 맘 가는 그대로 지금 내 손을 잡아그냥 내 손을 잡아지금 내 손을 잡아 "
+아이유,내 손을 잡아,2011.05.25,"발라드, 국내드라마","느낌이 오잖아 
+떨리고 있잖아
+언제까지 눈치만 볼 거니
+네 맘을 말해봐 
+딴청 피우지 말란 말이야
+네 맘 가는 그대로 
+지금 내 손을 잡아
+어서 내 손을 잡아
+우연히 고개를 돌릴 때 마다
+눈이 마주치는 건
+며칠 밤 내내 꿈속에 나타나
+밤새 나를 괴롭히는 건
+그 많은 빈자리 중에서 하필
+내 옆자릴 고르는 건
+나도 모르게 어느새 실없는 웃음
+흘리고 있다는 건
+그럼 말 다했지 뭐
+우리 얘기 좀 할까
+느낌이 오잖아 떨리고 있잖아
+언제까지 눈치만 볼 거니
+네 맘을 말해봐 
+딴청 피우지 말란 말이야
+네 맘 가는 그대로 
+지금 내 손을 잡아
+핸드폰 진동에 
+심장이 덜컥내려 앉는다는 건
+오 나도 모르게 
+어느새 짓궂은 네 말투
+자꾸 듣고 싶은걸
+어떡해
+저기 멀리 걸어온다
+눈이 마주친다
+언제까지 넌 모른척 할거니
+사랑이 온거야 너와 나 말이야
+네가 좋아 정말 못 견딜 만큼
+그거면 된거야 
+더는 생각하지 말란 말이야
+네 맘 가는 그대로
+느낌이 오잖아 떨리고 있잖아
+언제까지 눈치만 볼 거니
+네 맘을 말해봐 
+딴청 피우지 말란 말이야
+네 맘 가는 그대로 
+지금 내 손을 잡아
+그냥 내 손을 잡아
+지금 내 손을 잡아
+ "
 경서예지,나의 모든 날들은 오직 세 가지뿐일 거야 (Feat.몰리디),2023.07.25,발라드,"너와 같이 있는 게 혼자보다 편하고같은 부분에서 함께 웃고 울고같은 부분에서 또 열을 내고 니가 좋아하는 노래를 난 흥얼거리고내가 좋아하는 노래를 반대로니가 흥얼거리고한 시간이 30초처럼수다 떨다 연인처럼 기대어 쉬고왠지 너 조금 지쳐 보이는 목요일 밤엔시원한 맥주도 같이 마시고파너의 집 앞 편의점에 앉아사랑스런 너의 눈 보면 난 설레어떡해나의 모든 날들은 오직세 가지뿐일 거야너를 만나기 위해 기다린 날널 만나지 못해서 혼자 애 태우는 날너를 만나 그저 행복하기만 한 날이거 말고 모든 것은나에게는 아무 날도아무것도 아냐 나에겐 오로지너, 너, 너, 만, 만, 만내 마음 속에 담으려는 네 모습과 닮아져 가는 우리 사이많이 많이 사랑해너를 만난 이후로 어린 아이처럼 난별 거 아닌 일에 투정 부리게 돼질투하게 되고 또 혼자 서운하고바보처럼 풀어져 널 닮은 말투에 웃어사탕 하나 물은 듯 달콤히 물들어 가득히날씨 좋은 날 어디로 떠날까?말해 봐, 어디든지 다 좋아나의 모든 날들은 오직세 가지뿐일 거야너를 만나기 위해 기다린 날널 만나지 못해서 혼자 애 태우는 날너를 만나 그저 행복하기만 한 날나 다울 수 있게 해줘서힘들 때 마다 날 안아 준 너에게소중한 건 모두 다 너의 손에 줄 거야정답이 돼 준 너니까오랜 시간 지나도 너의 지금을 기억할게너로 인해 빛나던 모든 순간한 여름날 뜨거운 마음에 잠 못 이루고사랑 노래를 밤새 흥얼거리던 그 밤라 라라 라라 랄라 라라라 라라 랄라 라라라 라라 랄라 랄라많은 날들 지나도다정한 서로의 손길로처음처럼 언제나 함께
 "
 주호,잘가요,2022.12.04,발라드,"미안해 마요 이제야 난 깨달아요내 절대 그대 짝이 아님을괜찮을게요 영혼 밖에 팔 것 없는못난 날 잘 비켜갔어요그대 행복 내가 꼭 아니라도지킨다면 그게 사랑일 테죠그게 나의 몫이죠잘 가요 내 소중한 사람행복했어요그래도 이것만 알아줘요지금 그 사랑보다결코 내 사랑이부족하다거나 얕지 않음을잊어도 돼요 나를 만난 시간들은잠깐의 연극이라 여김을잘한 거예요 아무리 난 노력해도작은 희망도 없잖아요아주 멀리, 멀리 뛰어가세요어떡해요 자꾸 잘못한 일만떠오르는 걸잘 가요 내 소중한 사람행복했어요그래도 이것만 알아줘요지금 그 사랑보다 결코 내 사랑이부족하다거나 얕지 않음을어긋난 인연이 남겨놓은 사랑이란날카로운 슬픔이군요잘 가요 내 사랑아 고마웠어요그래도 이것만 알아줘요지금 그 사랑보다 결코 내 사랑이부족하다거나 얕지 않음을부족하다거나 얕지 않음을"
@@ -1026,7 +1072,99 @@ I.M (아이엠),OVERDRIVE,2023.06.23,랩/힙합,"Deep down on my body, I feel al
 제시 (Jessi),Cold Blooded,2021.10.12,랩/힙합,"I’m so cold blooded I’m so naughty 우린 전문가 넌 돌팔이You’s a nobody with no body난 무대 위에서 까 노가리 겁나 매운맛으로 잘 나가는 맛집 차렸네 My kimchi so delicious need a Michelin That good good in ya mouth boy 걍 툭툭 보채지마 boy Touch your toesThen drop it low 뒤돌아보고 튕겨요흔들어 흔들어 흔들어 Spank! 손들어 손들어 손들어 Bang!Cold Blooded Ho(Ice cold baby ice ice ice)Now Look into my brown eyes 그래 거울 속의 나나내게 이러쿵저러쿵 해봤자Ain’t no hasta mañana이건 간식 이건 상식랩 때려 박아버려 나의 방식Come and beat it up like a mosh pit 땀이 흘러내린다 like CrossFit피가 차네 난 피가 찬 애That mean that ice in my vein기가 세네 난 기가 센 애깡이 좀 세 like I’m RainJ E crooked letter crooked letterYou know what the name is아무 말이나 해도다 말이 돼 말이 돼 cause I’m famousCold Blooded Ho(Ice cold baby ice ice ice)이리로 와 Look at me look at me look at me nowI am not playing around, I got the crown You cannot play on my ground이리로 이리로 와 Look at me look at me now I got the crown, this is my town I do not, I do not F with you clownsWe don’t give a whatMind your own (mind your own)I’m really in my zoneGot it going on (got it going on)We don’t give a whatMind your own (mind your own) I’m really in my zoneGot it going onGot it going on
 "
 마크 (MARK),Golden Hour,2023.04.07,랩/힙합,"Give me my A courseIce is so big like a glacier내 통장에 어울려 PlatingShe looking at mewith no patience,So dangerousMenu가 마치 내 mirrorMichelin다워 my facial내가 좀 나한테 취해 있어가진 걸 어째 다 숨겨이렇게나 바빠바빠 나 먹느라 밥 밥Ladies just wait for me good girlI got a really bigUmm I got a really big problemI don’t know how to make eggs,But that I do not stressCause I’ve never been hungryAppetizer 말고main dish 말고 난Excuse me waiter가운데다가 노른자만Make it rightI'm callin Gordon RamsayI’m cookin upI’ll cook you upDiamondMe and the kitchenwith diamond ringsI’m cookin upI’ll cook you upDiamondMarried the kitchento cook you upTopping your fav,도망가라 해Tongue in the game,다 내겐 buffetI’m in your brainlike ooh la la la죽어, No never come backlike a bounceStyle too lavish I don’t count도시를 운영해 In my gownBoy gives governments allowanceAin’t ever enoughSnapping like branches,브레이크타임 없이 Kill ‘em all길치가 찾아와내 코스 별 박힌 Front doorCut the cloth cut the checkOff the cuff going off tonight I’m입 맞춰 On the glass탁해 Pinot noir, like bloodNot mineAppetizer 말고main dish 말고 난Excuse me waiter가운데다가 노른자만Make it rightYeah I’m callingWhen it’s all said anddone girl I want you끝에 나 혼자라면 버려 전부You can free my mindSee the silver liningI know you like HawaiiHop on a flight아님 내 Cruise아님 뭐 걷지Let’s free your timing저질러 버리고 후회하자고I need me a real freak tonightYou knowWe live in a worldthat constantly tries totake you away from youEveryone is being everyonebut themselveshere but not aroundWait, but what does that mean?I really don’t know howI’m calling Gordon outcause it’s the시간은 Golden hour하늘에 노른자가 ShiningI don’t know how to make eggsBut that I do not stress,Know I won’t ever go hungryI’m calling Gordon outCause it’s the golden hour"
-마이티 마우스,사랑해 (Feat. 윤은혜),2008.03.03,랩/힙합,"Yo this song goes outto ma so special ladyVibe with us사랑해 널 사랑해이렇게 너 하나만을 원해사랑해 너무나 사랑해세상 단 하나뿐인 너를이 세상 단 하나뿐인그대에게 내 맘을 바치는 노래오직 너 하나만을 원해그대만을 향한 사랑의 고백주고 또 주고 내 전부를 주고 싶어언제든 내게 기대 너만의 쉼터받는 것보다 주는 것이더 아름다운 것 it's the love언제나 곁에 있어줘난 너만을 위한 11924시간 언제나 대기중사랑한다 속삭여줘널 위한 스페셜 벨소리세상 가장 가슴 뛰는 멜로디내 마음 가득 너로 채우고너의 미소를 닮아가는 나이렇게 아름다운 세상을내게 가르쳐준 너너에게 말하고파사랑해 널 사랑해이렇게 너 하나만을 원해사랑해 너무나 사랑해세상 단 하나뿐인 너를손가락이 아프도록너와 주고받는 문자전화기가 뜨겁도록자기 전에 밤새 통화점점 줄어가는 친구와의 약속깜짝 선물로 눈물의 감동다른 여자 연락처 모두 지워그대에게 점수 따기 위한 오버액션ma luv baby come to mei want you you ma destiny우리 사진으로 도배된 미니홈피우리 둘만 재미있는 유치한 놀이hey luv U U A Yo 느낄 수 있니취미 말투 미소 모두가점점 닮아가는 너와 나내 마음 가득 너로 채우고너의 미소를 닮아가는 나이렇게 아름다운 세상을내게 가르쳐준 너너에게 말하고파사랑해 널 사랑해이렇게 너 하나만을 원해사랑해 너무나 사랑해세상 단 하나뿐인 너를우린 완벽한 듀엣차분히 하나 둘 셋서로의 마음을 채워가소중한 사랑을 배워가이 세상 너와 나 U N ME언제나 내 곁에 머물러 주겠니영원히 항상 변함없는너만의 반쪽새끼손가락을 걸고 자 약속그래 내가 너의 자랑스런 남자친구넌 사랑스런 내 여자친구쿵짝이 딱 맞는 짝궁누가 봐도 틀림없는 최고의 작품인터넷 속 화려한 커플전혀 안 부러워걱정하지 마 바람 따윈 안 펴U feel me I wanna be ur 남편내 마음 가득 너로 채우고너의 미소를 닮아가는 나이렇게 아름다운 세상을내게 가르쳐준 너너에게 말하고파내 마음 가득 너로 채우고너의 미소를 닮아가는 나이렇게 아름다운 세상을내게 가르쳐준 너너에게 말하고파사랑해 널 사랑해이렇게 너 하나만을 원해사랑해 너무나 사랑해세상 단 하나뿐인 너를1 & 2 & 3 & 4 이제 내 손을 잡고let's go I ma stick with ya너 하나만을 원해 널 위한 노래Feel this song1 & 2 & 3 & 4 넌 나만의 반쪽Say ho 영원히 함께 할 너와 나다 같이 외쳐 it's the love  "
+마이티 마우스,사랑해 (Feat. 윤은혜),2008.03.03,랩/힙합,"Yo this song goes out
+to ma so special lady
+Vibe with us
+사랑해 널 사랑해
+이렇게 너 하나만을 원해
+사랑해 너무나 사랑해
+세상 단 하나뿐인 너를
+이 세상 단 하나뿐인
+그대에게 내 맘을 바치는 노래
+오직 너 하나만을 원해
+그대만을 향한 사랑의 고백
+주고 또 주고 내 전부를 주고 싶어
+언제든 내게 기대 너만의 쉼터
+받는 것보다 주는 것이
+더 아름다운 것 it's the love
+언제나 곁에 있어줘
+난 너만을 위한 119
+24시간 언제나 대기중
+사랑한다 속삭여줘
+널 위한 스페셜 벨소리
+세상 가장 가슴 뛰는 멜로디
+내 마음 가득 너로 채우고
+너의 미소를 닮아가는 나
+이렇게 아름다운 세상을
+내게 가르쳐준 너
+너에게 말하고파
+사랑해 널 사랑해
+이렇게 너 하나만을 원해
+사랑해 너무나 사랑해
+세상 단 하나뿐인 너를
+손가락이 아프도록
+너와 주고받는 문자
+전화기가 뜨겁도록
+자기 전에 밤새 통화
+점점 줄어가는 친구와의 약속
+깜짝 선물로 눈물의 감동
+다른 여자 연락처 모두 지워
+그대에게 점수 따기 위한 오버액션
+ma luv baby come to me
+i want you you ma destiny
+우리 사진으로 도배된 미니홈피
+우리 둘만 재미있는 유치한 놀이
+hey luv U U A Yo 느낄 수 있니
+취미 말투 미소 모두가
+점점 닮아가는 너와 나
+내 마음 가득 너로 채우고
+너의 미소를 닮아가는 나
+이렇게 아름다운 세상을
+내게 가르쳐준 너
+너에게 말하고파
+사랑해 널 사랑해
+이렇게 너 하나만을 원해
+사랑해 너무나 사랑해
+세상 단 하나뿐인 너를
+우린 완벽한 듀엣
+차분히 하나 둘 셋
+서로의 마음을 채워가
+소중한 사랑을 배워가
+이 세상 너와 나 U N ME
+언제나 내 곁에 머물러 주겠니
+영원히 항상 변함없는
+너만의 반쪽
+새끼손가락을 걸고 자 약속
+그래 내가 너의 자랑스런 남자친구
+넌 사랑스런 내 여자친구
+쿵짝이 딱 맞는 짝궁
+누가 봐도 틀림없는 최고의 작품
+인터넷 속 화려한 커플
+전혀 안 부러워
+걱정하지 마 바람 따윈 안 펴
+U feel me I wanna be ur 남편
+내 마음 가득 너로 채우고
+너의 미소를 닮아가는 나
+이렇게 아름다운 세상을
+내게 가르쳐준 너
+너에게 말하고파
+내 마음 가득 너로 채우고
+너의 미소를 닮아가는 나
+이렇게 아름다운 세상을
+내게 가르쳐준 너
+너에게 말하고파
+사랑해 널 사랑해
+이렇게 너 하나만을 원해
+사랑해 너무나 사랑해
+세상 단 하나뿐인 너를
+1 & 2 & 3 & 4 이제 내 손을 잡고
+let's go I ma stick with ya
+너 하나만을 원해 널 위한 노래
+Feel this song
+1 & 2 & 3 & 4 넌 나만의 반쪽
+Say ho 영원히 함께 할 너와 나
+다 같이 외쳐 it's the love 
+ "
 NCT 127,Sticker,2021.09.17,랩/힙합,"Stickertagging tagging tagging taggingI got what you need원하는 걸 골라 붙여I can show you needhip 하지 나란 StickerBang bang한껏 힘을 준 애들 좀 봐 봐NCT we will show you the vibe hi우리들의 로고를 총 모양으로Baby 겁을 내지 말아 줘Think about 네 별이 oh!잠식되지 않아 정말난 더 환하게 널 만들어두 세계 융화라는 거지구 말로는 그거 L.O.V.E ah네 맘이 시키는 대로 말해뜻대로 움직여도 된다는 말이야우리끼린 달달하게 팍 팍 sugar눈치 따윈 보지 말고네가 boss란 말이야걱정하지 말고 그냥 팍 팍 믿어너만 그래도 돼원해 그럼 너의 것이야내 옆에 너 꼭 붙어 있어봐Like a Sticker Sticker Sticker내 작품의 주인공은 너니까Like a Sticker Sticker Sticker골 아픈 세상은 신경 꺼너와 나의 역사만 써 내려가사랑한단 말 말곤 아껴 둬내 말 맞다면 throw your hands up섣불리 말고 세게 붙여know that I ain’t falling off애착심이 솟구치네Who put this all togetherI’m the Sticker for your love그니까 보인다면 ho들린다면 바로 대답해 like babyBaby 이끌리는 느낌 쎄Talk about 너의 중력 oh너무 세게 당겨 난리아주 까리한 내 태도가정신도 못 차리는 걸거부할 수 없다고 baby girl ahYou treat me like a boy꿈을 좇는 어른 아이처럼 말이야Fallin’ into my love my sugar들어봐 봐 이건 절대입에 발린 말이 아니야커져왔던 내 모든 감정들은널 맞이하기 위한 것네가 boss란 그 말이야내 옆에 너 꼭 붙어 있어봐Like a Sticker Sticker Sticker내 작품의 주인공은 너니까Like a Sticker Sticker Sticker골 아픈 세상은 신경 꺼너와 나의 역사만 써 내려가사랑한단 말 말곤 아껴 둬내 말 맞다면 throw your hands up모든 고민들은 bye bye bye흘러가는 대로 bye bye bye말해 뭐해 이미 우린정해져 있는 걸낮과 밤의 존재처럼자연스러운 걸U will gotta be only one I lovethis mellow drama너 없인 관객이 하나도 없는그런 mono drama 우리 같이 둘만의 파티를 열어오직 너만 V.I.P.걱정 마 준비가 됐어곧바로 천국을 봐봐Let’s go let’s goRoll up to the party roll up roll upRoll up to the party roll up roll upRoll up to the partyroll up roll up to the partyRoll up to the partyroll up roll up to theyeah yeah yeah내 옆에 너 꼭 붙어 있어봐Like a Sticker Sticker Sticker내 작품의 주인공은 너니까Like a Sticker Sticker Sticker골 아픈 세상은 신경 꺼너와 나의 역사만 써 내려가사랑한단 말 말곤 아껴 둬내 말 맞다면 throw your hands upLike a Sticker Sticker Sticker
 "
 방탄소년단,Epiphany,2018.08.24,랩/힙합,참 이상해분명 나 너를 너무 사랑했는데뭐든 너에게 맞추고널 위해 살고 싶었는데그럴수록 내 맘속의폭풍을 견뎌낼 수 없게 돼 웃고 있는 가면 속의진짜 내 모습을 다 드러내I'm the one I should lovein this world빛나는 나를 소중한 내 영혼을이제야 깨달아 so I love me좀 부족해도 너무 아름다운 걸I'm the one I should love흔들리고 두려워도 앞으로 걸어가폭풍 속에 숨겨뒀던진짜 너와 만나왜 난 이렇게소중한 날 숨겨두고 싶었는지뭐가 그리 두려워내 진짜 모습을 숨겼는지I'm the one I should lovein this world빛나는 나를 소중한 내 영혼을이제야 깨달아 so I love me좀 부족해도 너무 아름다운 걸I'm the one I should love조금은 뭉툭하고 부족할지 몰라수줍은 광채 따윈 안 보일지 몰라하지만 이대로의 내가 곧 나인 걸지금껏 살아온내 팔과 다리 심장 영혼을사랑하고 싶어 in this world빛나는 나를 소중한 내 영혼을이제야 깨달아 so I love me좀 부족해도 너무 아름다운 걸I'm the one I should loveI'm the one I should loveI'm the one I should love
