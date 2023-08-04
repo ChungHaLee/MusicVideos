@@ -16,28 +16,20 @@ import pandas as pd
 from pytube import YouTube
 from pytube.cli import on_progress
 
-
-
 # DATA
-balladcsv = pd.read_csv('ballad.csv')
-dancecsv = pd.read_csv('dance.csv')
-raphiphop = pd.read_csv('raphiphop.csv')
+# balladcsv = pd.read_csv('ballad.csv')
+# dancecsv = pd.read_csv('dance.csv')
+# raphiphop = pd.read_csv('raphiphop.csv')
 
 artist_lst = []
 title_lst = []
 
 
-
 def download(link):
-    try:
-        yt = YouTube(link, on_progress_callback=on_progress)
+    yt = YouTube(link, on_progress_callback=on_progress)
 
-        stream = yt.streams.filter(progressive=True, file_extension="mp4").order_by("resolution").desc().first()
-        stream.download('./data/dance/')
-
-    except:
-        print('not downloaded!!!!!!', link)
-        pass
+    stream = yt.streams.filter(progressive=True, file_extension="mp4").order_by("resolution").desc().first()
+    stream.download('./data/')
 
 
 def search_keyword(music, singer):
@@ -57,9 +49,9 @@ def extract_source(soup_source):
 
         # 조회수 & 업로드 날짜 추출
         # NO NEED FOR NOW
-        # content_record_src = soup_source.find(class_ = 'style-scope ytd-video-meta-block')
-        # content_view_cnt = content_record_src.find_all('span', 'inline-metadata-item')[0].get_text().replace('조회수 ', '').replace('\n', '')
-        # content_upload_date = content_record_src.find_all('span', 'inline-metadata-item')[1].get_text().replace('\n', '')
+        content_record_src = soup_source.find(class_ = 'style-scope ytd-video-meta-block')
+        content_view_cnt = content_record_src.find_all('span', 'inline-metadata-item')[0].get_text().replace('조회수 ', '').replace('\n', '')
+        content_upload_date = content_record_src.find_all('span', 'inline-metadata-item')[1].get_text().replace('\n', '')
     except:
         pass
 
@@ -81,42 +73,54 @@ def scraping(driver, keyword):
         title, link = extract_source(soup_source)
         # Youtube video download
         download(link)
-
     except:
+        title, link = None, None
         pass
 
     return title, link
 
 
-def main(genrecsv):
+def main():
     # service = Service(ChromeDriverManager().install())
     # driver = webdriver.Chrome(service=service)
 
     options = Options()
-    options.binary_location = '/usr/bin/google-chrome'
-    driver = webdriver.Chrome(executable_path='/home/chungha/Desktop/chromedriver', chrome_options=options)
+    options.binary_location = 'C:/Program Files/Google/Chrome/Application/chrome.exe'
+    driver = webdriver.Chrome(executable_path='C:/Users/prais/Desktop/chromedriver', chrome_options=options)
 
-    # song meta data
-    print('the number of the songs:', len(genrecsv))
-    for i in range(len(genrecsv)):
+    data_info = []
 
-        artist = genrecsv['artist'][i]
-        title = genrecsv['title'][i]
-        
-        songs = pd.DataFrame({'music': [title], 'singer': [artist]})
-        keywords = [search_keyword(song['music'], song['singer']) for _, song in songs.iterrows()]
-        print('index:', i, 'title:', title, 'singer:', artist)
-        print('------------------------------------------------------------------------------------')
-        data_info = [scraping(driver, keyword) for keyword in keywords]
+    for genrecsv in ['./melon1.csv', './melon2.csv', './melon3.csv', './melon4.csv']:
+        songs = pd.read_csv(genrecsv)
+
+
+
+        # song meta data
+    # print('the number of the songs:', len(genrecsv))
+    # for i in range(len(genrecsv)):
+
+        # artist = genrecsv['artist'][i]
+        # title = genrecsv['title'][i]
+
+        # songs = pd.DataFrame({'music': [title], 'singer': [artist]})
+    # keywords = [search_keyword(song['title'], song['artist']) for _, song in songs.iterrows()]
+    # print('index:', i, 'title:', title, 'singer:', artist)
+    # print('------------------------------------------------------------------------------------')
+
+        for _, song in songs.iterrows():
+            keyword = search_keyword(song['title'], song['artist'])
+            title, link = scraping(driver, keyword)
+            if (title != None) & (link != None):
+                data_info.append((song['title'], song['artist'], title, link))
+
+        # data_info = [scraping(driver, keyword) for keyword in keywords]
         # artist_lst.append(artist)
         # title_lst.append(title)
 
     # mvdf = pd.DataFrame(zip(artist_lst, title_lst))
-
     # mvdf.to_csv('./youtube_songs_info.csv')
-    # data_info_df = pd.DataFrame(data_info, columns=['title', 'link'])
-    # data_info_df.to_csv("./youtube_songs_info.csv", index=False)
+    data_info_df = pd.DataFrame(data_info, columns=['music_title', 'artist', 'youtube_title', 'link'])
+    data_info_df.to_csv("./youtube_songs_info.csv", index=False)
 
 
-
-main(dancecsv)
+main()
