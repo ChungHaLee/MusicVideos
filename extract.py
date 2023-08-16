@@ -4,7 +4,7 @@ import pandas as pd
 
 
 
-mv_list = os.listdir('result')
+mv_list = ['aespa_spicy']
 
 
 def readtime(timepath):
@@ -24,7 +24,7 @@ def mvinput(mvpath, timepath):
 
         title = mvpath.split('/')[1].split('.')[0]
         clip = mp.VideoFileClip(mvpath).subclip(start, end)
-        clip.audio.write_audiofile("result/%s/%s_%s.mp3"%(title, title, i))
+        clip.audio.write_audiofile("wav_result/%s/%s_%s.wav"%(title, title, i))
 
 
 def main():

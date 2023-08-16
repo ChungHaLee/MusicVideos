@@ -16,10 +16,6 @@ import pandas as pd
 from pytube import YouTube
 from pytube.cli import on_progress
 
-# DATA
-# balladcsv = pd.read_csv('ballad.csv')
-# dancecsv = pd.read_csv('dance.csv')
-# raphiphop = pd.read_csv('raphiphop.csv')
 
 artist_lst = []
 title_lst = []
